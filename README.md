@@ -12,23 +12,28 @@ Hello, world! 👋 I'm Chiu Leung Hui, a passionate software developer mainly fo
 - Other: Git, GitHub, RESTful APIs, UI/UX Design
 - Tools: MySQL Workbench, Docker, Git, Postman, Jmeter, Linux, Strapi, Liferay
 
+
 ## Projects
 
-- [ASL-Marketplace](marketplace.asl.com.hk):
-● Fully customized CMS real-world project and employs Strapi as the CMS
-● Utilizes React for frontend development
-● All contents fetched from the CMS and easy to edit and update
-● I mainly focus on front-end development by leveraging React.js
+### [ASL-Marketplace](marketplace.asl.com.hk)
 
-- [Hong Kong Artificial Reef Project](artificial-reef.net):
-● Fully customized CMS real-world project and leveraging Liferay as CMS
-● The content can be easily edited and updated by users
-● Worked in collaboration with both the government team and the China team, receiving 100% positive feedback
+- Fully customized CMS real-world project and employs Strapi as the CMS
+- Utilizes React for frontend development
+- All contents fetched from the CMS and easy to edit and update
+- I mainly focus on front-end development by leveraging React.js
 
-- [Blockchain-Based Event Ticketing Platform](github.com/Karl-Hui/smartix-capstone):
-● Event ticketing and online concert viewing platform leveraging Ethereum blockchain technology. Allowing users to create and purchase online and offline events.
-● React.js as frontend and Node.js as backend.
-● Use socket.io to allow audiences to enjoy the live event.
+### [Hong Kong Artificial Reef Project](artificial-reef.net)
+
+- Fully customized CMS real-world project and leveraging Liferay as CMS
+- The content can be easily edited and updated by users
+- Worked in collaboration with both the government team and the China team, receiving 100% positive feedback
+
+### [Blockchain-Based Event Ticketing Platform](github.com/Karl-Hui/smartix-capstone)
+
+- Event ticketing and online concert viewing platform leveraging Ethereum blockchain technology.
+- Allows users to create and purchase online and offline events.
+- React.js as frontend and Node.js as backend.
+- Use socket.io to allow audiences to enjoy the live event.
 
 ## Let's Connect
 
