@@ -38,4 +38,4 @@ Hello, world! 👋 I'm Chiu Leung Hui, a passionate software developer mainly fo
 
 ## Fun Fact
 
-With over 2 years of web development experience, I've built 20+ real-world projects. Managed a database with 70 billion sensitive medical records and developed scripts for an increase of 80% threshold alarm accuracy and 70% resource waste reduction. Successful React.js development led to a 70% increase in lead generation for the company. Experience collaborating with international teams and working with foreign clients/customers and received high praise from clients and supervisors. Seeking dynamic projects to contribute my technical skills and passion for web development. Continuous self-learning and mastering JavaScript, React.js, and Node.js have been key to my success.
+Coding, Eating, Learning <3
