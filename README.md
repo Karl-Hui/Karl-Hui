@@ -37,8 +37,8 @@ Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web
 
 ## Let's Connect
 
-- LinkedIn: [chiu-leung-hui-fullstack]([link-to-your-linkedin](https://www.linkedin.com/in/chiu-leung-hui-fullstack/))
-- Portfolio: [My Portfolio]([link-to-your-portfolio](https://main--chiu-personal-web.netlify.app/))
+- LinkedIn: [chiu-leung-hui-fullstack](https://www.linkedin.com/in/chiu-leung-hui-fullstack/)
+- Portfolio: [My Portfolio](https://main--chiu-personal-web.netlify.app/)
 - Email: [karlhui0311@gmail.com](karlhui0311@gmail.com)
 
 ## Fun Fact
