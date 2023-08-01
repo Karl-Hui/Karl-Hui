@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, world! 👋 I'm Chiu Leung Hui, a passionate software developer mainly focus on web development. I love building meaningful projects and exploring new technologies. Welcome to my GitHub profile!
+Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web development. I love building meaningful projects and exploring new technologies. Welcome to my GitHub profile!
 
 ## Skills
 
