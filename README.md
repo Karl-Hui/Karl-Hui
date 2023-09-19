@@ -22,7 +22,7 @@ Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web
 - All contents fetched from the CMS and easy to edit and update
 - I mainly focus on front-end development by leveraging React.js
 
-### [Hong Kong Artificial Reef Project](artificial-reef.net)
+### [Hong Kong Artificial Reef Project](https://www.artificial-reef.net/)
 
 - Fully customized CMS real-world project and leveraging Liferay as CMS
 - The content can be easily edited and updated by users
