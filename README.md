@@ -15,7 +15,7 @@ Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web
 
 ## Projects
 
-### [ASL-Marketplace](marketplace.asl.com.hk)
+### [ASL-Marketplace](https://marketplace.asl.com.hk/market/en/home)
 
 - Fully customized CMS real-world project and employs Strapi as the CMS
 - Utilizes React for frontend development
