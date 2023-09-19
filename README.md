@@ -28,7 +28,7 @@ Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web
 - The content can be easily edited and updated by users
 - Worked in collaboration with both the government team and the China team, receiving 100% positive feedback
 
-### [Blockchain-Based Event Ticketing Platform](Karl-Hui/smartix-capstone)
+### [Blockchain-Based Event Ticketing Platform](https://github.com/Karl-Hui/smartix-capstone)
 
 - Event ticketing and online concert viewing platform leveraging Ethereum blockchain technology.
 - Allows users to create and purchase online and offline events.
