@@ -2,8 +2,11 @@
 
 ## Introduction
 
-Hello, world! 👋 I'm Chiu, a passionate software developer mainly focus on web development. I love building meaningful projects and exploring new technologies. Welcome to my GitHub profile!
+Hello, world! 👋 I am Karl
 
+After graduating with a degree in Health Studies, I leveraged my passion for technology and programming. With 3+ years of practical experience, I've built 20+ real-world projects. Skilled in JavaScript, React.js, Node.js. Passionate about problem-solving and continuous learning.
+
+Outside coding, I enjoy video games⭐️, movies🍿, basketball🏀 and time with my cat. Passionate about learning new things—currently delving into the world of car maintenance. I also appreciate the simple pleasure of taking a leisurely drive🚗🚙💨 for relaxation.
 ## Skills
 
 - Front-end Development: React.js, Javascript, Redux, HTML5, CSS3, Context API
