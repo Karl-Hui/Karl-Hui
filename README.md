@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, world! 👋 I am Karl
+Hello, world! 👋 I am Karl, A open source contributor
 
 After graduating with a degree in Health Studies, I leveraged my passion for technology and programming. With 3+ years of practical experience, I've built 20+ real-world projects. Skilled in JavaScript, React.js, Node.js. Passionate about problem-solving and continuous learning.
 
