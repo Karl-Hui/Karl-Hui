@@ -38,6 +38,8 @@ Outside coding, I enjoy video games⭐️, movies🍿, basketball🏀 and time w
 - React.js as frontend and Node.js as backend.
 - Use socket.io to allow audiences to enjoy the live event.
 
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Karl-Hui?theme=dark&font=Cousine&ext=heatmap)
+
 ## Let's Connect
 
 - LinkedIn: [chiu-leung-hui-fullstack](https://www.linkedin.com/in/chiu-leung-hui-fullstack/)
