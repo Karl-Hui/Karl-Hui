@@ -48,4 +48,4 @@ Outside coding, I enjoy video games⭐️, movies🍿, basketball🏀 and time w
 
 Coding, Eating, Learning <3
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Karl-Hui?theme=dark&font=Cousine&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Karl-Hui?theme=dark&font=Cousine&ext=activity)
