@@ -41,7 +41,7 @@ Outside coding, I enjoy video games⭐️, movies🍿, basketball🏀 and time w
 ## Let's Connect
 
 - LinkedIn: [chiu-leung-hui-fullstack](https://www.linkedin.com/in/chiu-leung-hui-fullstack/)
-- Portfolio: [My Portfolio](https://main--chiu-personal-web.netlify.app/)
+- Portfolio: [My Portfolio](https://karlhui.vercel.app/)
 - Email: [karlhui0311@gmail.com](karlhui0311@gmail.com)
 
 ## Fun Fact
