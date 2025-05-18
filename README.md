@@ -65,7 +65,4 @@ Outside of coding, I recharge with video games⭐️, movies🍿, basketball🏀
 
 ---
 
-## 🎯 Fun Fact
 
-I’m always chasing the next challenge—whether it’s a tricky algorithm on LeetCode or tinkering under the hood of my car.  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Karl-Hui?theme=nord&font=Cousine)
