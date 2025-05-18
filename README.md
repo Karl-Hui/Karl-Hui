@@ -1,51 +1,71 @@
-# Chiu Leung Hui, Karl
+# Chiu Leung Hui (Karl)
 
-## Introduction
+## 👋 Introduction
 
-Hello, world! 👋 I am Karl, A open source contributor
+I’m Karl, a Full-Stack Developer and open-source contributor based in Toronto. With **5+ years** of experience designing and building scalable, high-performance systems across health, CMS, e-commerce and entertainment industries, I’ve shipped projects that improved SEO by 38%, cut load times in half, and boosted engagement by up to 40%. I’m proficient in **Python**, **JavaScript/TypeScript**, **Node.js**, **Shopify API**, **C#/.NET**, **Next.js**, **React**, and **Docker**, and I’m passionate about clean code and continuous learning.
 
-After graduating with a degree in Health Studies, I leveraged my passion for technology and programming. With 3+ years of practical experience, I've built 20+ real-world projects. Skilled in JavaScript, React.js, Node.js. Passionate about problem-solving and continuous learning.
+Outside of coding, I recharge with video games⭐️, movies🍿, basketball🏀, and quality time with my cat—plus I’m diving into car maintenance and love a good weekend drive🚗💨.
 
-Outside coding, I enjoy video games⭐️, movies🍿, basketball🏀 and time with my cat. Passionate about learning new things—currently delving into the world of car maintenance. I also appreciate the simple pleasure of taking a leisurely drive🚗🚙💨 for relaxation.
-## Skills
+---
 
-- Front-end Development: React.js, Javascript, Redux, HTML5, CSS3, Context API
-- Back-end Development: Node.js, Linux operation, shell script, Express.js, JWT, Next.js, Socket.io, cron job
-- Database: MySQL, PostgreSQL
-- Other: Git, GitHub, RESTful APIs, UI/UX Design
-- Tools: MySQL Workbench, Docker, Git, Postman, Jmeter, Linux, Strapi, Liferay
+## 💡 Skills
 
+- **Languages:** Python · JavaScript · TypeScript · C#  
+- **Front-end:** React · Next.js · Redux · RTK Query · SCSS · HTML5 · CSS3  
+- **Back-end:** Node.js · Express · GraphQL · REST · Socket.io · cron jobs  
+- **Platforms & APIs:** Shopify Storefront API · SNMP · Docker · Linux · Bash  
+- **Databases:** MySQL · PostgreSQL  
+- **Testing & CI/CD:** Jest · JMeter · GitHub Actions · ESLint  
+- **Other Tools:** Git · GitHub · Postman · MySQL Workbench · Strapi · Liferay  
 
-## Projects
+---
 
-### [ASL-Marketplace](https://marketplace.asl.com.hk/market/en/home)
+## 🚀 Featured Projects & Contributions
 
-- Fully customized CMS real-world project and employs Strapi as the CMS
-- Utilizes React for frontend development
-- All contents fetched from the CMS and easy to edit and update
-- I mainly focus on front-end development by leveraging React.js
+### Linconson E-Commerce Frontend  
+**Full Stack Developer @ Linconson Industries** (Apr 2025 – Present)  
+- Rebuilt storefront with Next.js & TypeScript, boosting SEO scores by **38%** (Google Lighthouse & SERP)  
+- Integrated Shopify Storefront API via GraphQL for real-time product queries & dynamic rendering  
+- Created a custom debounce utility to throttle expensive API calls—cut network load by **45%**  
 
-### [Hong Kong Artificial Reef Project](https://www.artificial-reef.net/)
+[View live site »](https://www.linconson.com)
 
-- Fully customized CMS real-world project and leveraging Liferay as CMS
-- The content can be easily edited and updated by users
-- Worked in collaboration with both the government team and the China team, receiving 100% positive feedback
+---
 
-### [Blockchain-Based Event Ticketing Platform](https://github.com/Karl-Hui/smartix-capstone)
+### Insurance Platform UI  
+**Frontend Developer @ Alliance Income Services** (Oct 2024 – Apr 2025)  
+- Built a modular, accessible React + TypeScript frontend serving **300+** monthly users  
+- Leveraged Redux Toolkit & RTK Query to eliminate boilerplate and streamline API interactions  
+- Championed SOLID & DRY across the codebase, accelerating feature development and maintainability  
 
-- Event ticketing and online concert viewing platform leveraging Ethereum blockchain technology.
-- Allows users to create and purchase online and offline events.
-- React.js as frontend and Node.js as backend.
-- Use socket.io to allow audiences to enjoy the live event.
+---
 
-## Let's Connect
+### Network Equipment Monitoring Dashboard  
+**Software Engineer @ Hospital Authority Hong Kong** (May 2022 – May 2023)  
+- Developed a React + Java + C++ data-viz platform, cutting dev time by **25%** and fixing **95%** of bugs within 24 hours  
+- Automated system monitoring with Bash & Python scripts—reduced server alarms by **80%**  
+- Led migration of legacy SNMP/TCP-IP monitoring tools for smoother hospital operations  
 
-- LinkedIn: [chiu-leung-hui-fullstack](https://www.linkedin.com/in/chiu-leung-hui-fullstack/)
-- Portfolio: [My Portfolio](https://karlhui.vercel.app/)
-- Email: [karlhui0311@gmail.com](karlhui0311@gmail.com)
+---
 
-## Fun Fact
+### Material Tailwind CSS  
+**Open-Source Contributor**  
+- Identified and resolved critical bugs in `material-tailwind/react-v2.1.6`, driving a **15%** uplift in user satisfaction  
+- Wrote documentation and examples to help developers adopt the library  
 
-Coding, Eating, Learning <3
+[Explore on GitHub »](https://github.com/material-tailwind)
 
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chiu-leung-hui-fullstack/)  
+- 🌐 [Portfolio](https://karlhui.vercel.app/)  
+- ✉️ [karlhui0311@gmail.com](mailto:karlhui0311@gmail.com)  
+
+---
+
+## 🎯 Fun Fact
+
+I’m always chasing the next challenge—whether it’s a tricky algorithm on LeetCode or tinkering under the hood of my car.  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Karl-Hui?theme=nord&font=Cousine)
