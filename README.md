@@ -2,9 +2,7 @@
 
 ## 👋 Introduction
 
-I’m Karl, a Full-Stack Developer and open-source contributor based in Toronto. With **5+ years** of experience designing and building scalable, high-performance systems across health, CMS, e-commerce and entertainment industries, I’ve shipped projects that improved SEO by 38%, cut load times in half, and boosted engagement by up to 40%. I’m proficient in **Python**, **JavaScript/TypeScript**, **Node.js**, **Shopify API**, **C#/.NET**, **Next.js**, **React**, and **Docker**, and I’m passionate about clean code and continuous learning.
-
-Outside of coding, I recharge with video games⭐️, movies🍿, basketball🏀, and quality time with my cat—plus I’m diving into car maintenance and love a good weekend drive🚗💨.
+I’m Karl, a Full-Stack Developer and open-source contributor based in Toronto. With **5+ years** of experience designing and building scalable, high-performance systems across health, CMS, e-commerce and entertainment industries.
 
 ---
 
@@ -50,7 +48,7 @@ Outside of coding, I recharge with video games⭐️, movies🍿, basketball🏀
 
 ### Material Tailwind CSS  
 **Open-Source Contributor**  
-- Identified and resolved critical bugs in `material-tailwind/react-v2.1.6`, driving a **15%** uplift in user satisfaction  
+- Identified and resolved critical bugs in `material-tailwind/react-v2.1.6` 
 - Wrote documentation and examples to help developers adopt the library  
 
 [Explore on GitHub »](https://github.com/material-tailwind)
