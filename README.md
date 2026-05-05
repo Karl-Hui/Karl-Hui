@@ -18,18 +18,6 @@ I’m Karl, a Full-Stack Developer and open-source contributor based in Toronto.
 
 ---
 
-## 🚀 Featured Projects & Contributions
-
-### Linconson E-Commerce Frontend  
-**Full Stack Developer @ Linconson Industries** (Apr 2025 – Present)  
-- Rebuilt storefront with Next.js & TypeScript, boosting SEO scores by **38%** (Google Lighthouse & SERP)  
-- Integrated Shopify Storefront API via GraphQL for real-time product queries & dynamic rendering  
-- Created a custom debounce utility to throttle expensive API calls—cut network load by **45%**  
-
-[View live site »](https://www.linconson.com)
-
----
-
 ### Insurance Platform UI  
 **Frontend Developer @ Alliance Income Services** (Oct 2024 – Apr 2025)  
 - Built a modular, accessible React + TypeScript frontend serving **300+** monthly users  
